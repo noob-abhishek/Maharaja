@@ -4,7 +4,7 @@ import DataContainer from './Components/MainContainer.jsx';
 
 const App = () => {
   
-  const apiEndpoint2 = 'API_Pointitt';
+  const apiEndpoint2 = 'https://jobnews-backend.onrender.com/api/jobs';
 
   return (
     <div style={{ display: 'flex' }}>
